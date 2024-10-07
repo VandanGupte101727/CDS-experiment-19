@@ -94,3 +94,9 @@ CODE:-<br>
 
     return 0;
     }
+
+
+Output:-<br>
+![exp19](https://github.com/VandanGupte101727/CDS-experiment-19/blob/main/Screenshot%202024-10-07%20at%207.59.59%20PM.png)<br>
+
+Conclusion:- In this experiment we learnt about queue and its operations.
